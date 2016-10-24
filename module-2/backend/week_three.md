@@ -15,7 +15,7 @@ I don't think I ever heard the term ERD before.... but it seems to be the thing 
 
 2. Create an ERD for the following database: Restaurants, Customers, Items, Ingredients, Beverages, Orders, Vendors.<br>
 
-![ERD] (https://photos.google.com/photo/AF1QipPj7CRuWdK8GVC_j3yDYDNbU4vMVR6hbTepafPo)  
+![ERD] (https://goo.gl/photos/xUPEaiHSmY8XUDuU7)  
 
 3. What is the entry at the command line to create a new rails app?
 4. What do Models generally inherit from in rails?
